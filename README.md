@@ -5,7 +5,7 @@ A simple task tracking application built with React and Vite.
 
 This application allows users to add, edit, and manage tasks efficiently.
 
-
+![image alt](https://github.com/yprasad28/Task-Tracker/blob/7333497e11cbe9797fed3c60b892a3611dbafccc/Screenshot%202024-11-23%20115906.png)
 
 ## Features
 
